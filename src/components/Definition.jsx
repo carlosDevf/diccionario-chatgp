@@ -48,7 +48,7 @@ export default function Definition({ def }) {
       <div className="grid place-content-center">
         <img
         className="rounded px-12"
-        src="https://imgs.search.brave.com/mlOs3gBCfJheoXaNRuQeRcgIxQaJePMjUF7OJq-Wor8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29vbHQuY29tL3Vw/bG9hZHMvczEvNjIv/MzcvMC9lbC1jdWFy/dGV0by1kZS1ub3Mt/NS5qcGVn" alt="imagen"/>
+        src="https://blog.marcnuri.com/static/c6af61f7dcd340d5bf31334c8bca3ad4/baaed/curl.jpg" alt="imagen"/>
       </div>
       </div>
     </div>
